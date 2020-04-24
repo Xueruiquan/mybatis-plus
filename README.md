@@ -6,7 +6,7 @@
 
 #### 简介
 
-- 官网地址：https://mp.baomidou.com/guide/
+- MyBatis-Plus官网地址：https://mp.baomidou.com/guide/
 
 #### 使用
 
